@@ -1,0 +1,14 @@
+Name:           INC
+version:    0.1
+License:        GPL
+License-File:   COPYING.txt
+Author:         Bryan Donlan
+Build-Depends:  base, mtl, haskell98, parsec, bytestring, containers, array
+Synopsis:     include Compiler
+build-type:  Simple
+Executable:     inc
+Main-Is:        q.hs
+
+ghc-options:     -Wall -Werror 
+
+
