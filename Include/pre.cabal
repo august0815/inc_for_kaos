@@ -2,7 +2,7 @@ Name:           INC
 version:    0.1
 License:        GPL
 License-File:   COPYING.txt
-Author:         Bryan Donlan
+Author:         august0815
 Build-Depends:  base, mtl, haskell98, parsec, bytestring, containers, array
 Synopsis:     include Compiler
 build-type:  Simple
