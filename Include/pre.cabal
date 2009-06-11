@@ -8,7 +8,7 @@ Synopsis:     include Compiler
 build-type:  Simple
 Executable:     inc
 Main-Is:        q.hs
-
+ 
 ghc-options:     -Wall -Werror 
 
 
