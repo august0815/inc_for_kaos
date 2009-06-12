@@ -10,6 +10,6 @@ rm -f $1.cos
 # get the included files and
 inc $1
 # then pass to compiler
-kaos -o $1.cos $1
+kaos -o $1.cos $TMP
 
 #rm -f $TMP
