@@ -12,4 +12,4 @@ inc $1
 # then pass to compiler
 kaos -o $1.cos $1
 
-#rm -f tmp
+#rm -f $TMP
