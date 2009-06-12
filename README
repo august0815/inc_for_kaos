@@ -1,0 +1,9 @@
+this is my first Include for Kaos.
+
+Taks the foo.k and replaces all #include foo2.k  with the foo2.k-file.
+
+Saves as tmp,  passing to kaos.compiler 
+
+TODO: merge this in the kaos-src
+
+PS.my first haskell programm
